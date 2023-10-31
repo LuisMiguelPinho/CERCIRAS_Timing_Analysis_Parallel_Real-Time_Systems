@@ -1,0 +1,1 @@
+docker build -t timing_analysis_course:latest .

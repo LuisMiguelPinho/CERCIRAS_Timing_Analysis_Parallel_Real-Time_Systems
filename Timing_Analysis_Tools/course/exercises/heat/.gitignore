@@ -1,0 +1,14 @@
+*.o
+*.prv
+*.row
+*.ppm
+*.pcf
+*.mpits
+*.sym
+analysis_tdg.c
+set-0/
+heat
+heat_*
+*_tdg.cpp
+*tdg.hpp
+tdg*.dot
